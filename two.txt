@@ -1,1 +1,5 @@
 Two = 2
+
+2 = Two
+
+ni = 2/Two
